@@ -65,9 +65,9 @@ body {
 }
 .navtext:hover {
     color: #2e86de;
-    -o-transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
-    transition: all .4s ease-in-out;
+    -o-transition: all .6s ease-in-out;
+    -webkit-transition: all .6s ease-in-out;
+    transition: all .6s ease-in-out;
 }
 
 .opt {
@@ -123,4 +123,15 @@ label{
 
 .artist{
     padding-left: 5px;
+}
+
+@media only screen and (max-width: 496px) {
+    [class*="container-fluid"] {
+        width: 80%;
+    }
+}
+@media only screen and (min-width: 496px) {
+    [class*="container-fluid"] {
+        width: 70%;
+    }
 }
