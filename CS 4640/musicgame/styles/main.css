@@ -1,0 +1,30 @@
+form-group {
+
+}
+
+label{
+    display: block;
+    text-align: center;
+}
+
+.select {
+    margin-top:50px;
+    text-align: center;
+}
+
+.leaderboard{
+    margin-top:12.5px;
+    text-align: center;
+}
+
+.board{
+     margin-top:10px;
+}
+
+.custom {
+    width: 125px;
+}
+
+.artist{
+    padding-left: 5px;
+}
