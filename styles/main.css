@@ -132,6 +132,6 @@ label{
 }
 @media only screen and (min-width: 496px) {
     [class*="container-fluid"] {
-        width: 70%;
+        width: 45%;
     }
 }
