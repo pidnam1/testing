@@ -43,6 +43,9 @@ body {
     width: 100%;
     text-align: center;
     vertical-align: middle;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
 }
 
 .button-sec {
@@ -51,6 +54,9 @@ body {
 .sign:hover {
     background-color: #2B7A78;
     outline-color: white;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
 }
 
 .opt {
@@ -63,11 +69,17 @@ body {
     width: 100%;
     text-align: center;
     vertical-align: middle;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
 }
 
 .opt:hover {
     background-color: #2B7A78;
     outline-color: white;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
 }
 
 form-group {
